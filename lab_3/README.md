@@ -11,7 +11,8 @@
 
 Все тесты проводились на процессоре:
 
-Intel(R) Xeon(R) CPU E5-2666 v3 @ 2.90GHz  
+-AMD Ryzen 5 3600 6-Core Processor 
+
 
 ---
 
